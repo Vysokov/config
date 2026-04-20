@@ -2,46 +2,46 @@
 	"sdochanger": {
 		"ver": "1.0",
 		"url": "/vysokov/sdochanger",
-		"comment": ""
+		"comment": "Что нового:"
 	},
 	"dcauochanger": {
-		"ver": "1.0",
+		"ver": "1.1",
 		"url": "/vysokov/dcauochanger",
-		"comment": ""
+		"comment": "Что нового:\n - актуализирован список КО/ДО"
 	},
 	"restoredrafts": {
 		"ver": "1.0",
 		"url": "/vysokov/restoredrafts",
-		"comment": ""
+		"comment": "Что нового:"
 	},
 	"focusadminchanger": {
 		"ver": "1.0",
 		"url": "/vysokov/focusadminchanger",
-		"comment": ""
+		"comment": "Что нового:"
 	},
 	"boundupdater": {
 		"ver": "1.0",
 		"url": "/vysokov/boundupdater",
-		"comment": ""
+		"comment": "Что нового:"
 	},
 	"untrusted": {
 		"ver": "1.0",
 		"url": "/vysokov/untrusted",
-		"comment": ""
+		"comment": "Что нового:"
 	},
 	"fixchainusertoaccount": {
 		"ver": "1.0",
 		"url": "/vysokov/fixchainusertoaccount",
-		"comment": ""
+		"comment": "Что нового:"
 	},
 	"downloader": {
 		"ver": "1.0",
 		"url": "/vysokov/download_from_wic",
-		"comment": ""
+		"comment": "Что нового:"
 	},
 	"unsubscriber": {
 		"ver": "1.0",
 		"url": "/vysokov/unsubscriber",
-		"comment": ""
+		"comment": "Что нового:"
 	}
 }
