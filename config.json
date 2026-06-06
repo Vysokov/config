@@ -10,9 +10,9 @@
 		"comment": "Что нового:\n  - актуализирован список КО/ДО"
 	},
 	"restoredrafts": {
-		"ver": "1.0",
+		"ver": "1.1",
 		"url": "/vysokov/restoredrafts",
-		"comment": "Что нового:"
+		"comment": "Что нового:\n  - загрузка черновиков пачками (обход лимита зебры в 200 записей)"
 	},
 	"focusadminchanger": {
 		"ver": "1.0",
