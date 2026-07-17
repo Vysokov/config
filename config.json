@@ -35,9 +35,9 @@
 		"comment": "Что нового:"
 	},
 	"downloader": {
-		"ver": "1.0",
+		"ver": "2.1",
 		"url": "/vysokov/download_from_wic",
-		"comment": "Что нового:"
+		"comment": "Что нового:\n  - перевод на работу по ключам"
 	},
 	"unsubscriber": {
 		"ver": "1.0",
